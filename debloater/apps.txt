@@ -1,0 +1,10 @@
+Google:com.google.android.googlequicksearchbox
+Device Personalization Services:com.google.android.as
+Chrome:com.android.chrome
+Google Text-to-speech Engine:com.google.android.tts
+ShiftPapers:org.shapeshift.papers
+Personal Safety:com.google.android.apps.safetyhub
+DiagnosticsTool:com.google.android.apps.diagnosticstool
+OK Google enrollment:com.android.hotwordenrollment.okgoogle
+X Google enrollment:com.android.hotwordenrollment.xgoogle
+Live Transcribe:com.google.audio.hearing.visualization.accessibility.scribe
